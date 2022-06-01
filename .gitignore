@@ -1,1 +1,13 @@
-
+.*
+fluidd/
+gcode_files/
+kiauh-backups/
+kiauh/
+klipper/
+klipper_logs/
+klippy-env/
+mainsail/
+mjpg-streamer/
+moonraker-env/
+moonraker/
+!klipper_config/
