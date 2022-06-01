@@ -1,0 +1,5 @@
+*
+!klipper_config/**/*
+!kiauth/**/*
+!.kiath.ini
+!README.md
