@@ -14,3 +14,4 @@ KlipperScreen/
 !klipper_config/
 klipper_config/printer-*.cfg
 moonraker-timelapse/
+timelapse/
